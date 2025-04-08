@@ -15,7 +15,7 @@ export default function Home() {
       author: "Ana Luz Santos",
       price: 49.9,
       coverImage:
-        "https://via.placeholder.com/150x200/3498db/ffffff?text=Algoritmo",
+        "https://m.media-amazon.com/images/I/81R10VrmpZL._UF894,1000_QL80_.jpg",
       rating: 4.5,
       tags: ["Ficção Científica", "Tecnologia"],
     },
@@ -25,7 +25,7 @@ export default function Home() {
       author: "Marcos Silva",
       price: 39.9,
       coverImage:
-        "https://via.placeholder.com/150x200/e74c3c/ffffff?text=Conexões",
+        "https://m.media-amazon.com/images/I/71281wQs1+L._UF894,1000_QL80_.jpg",
       rating: 4.8,
       tags: ["Romance", "Tecnologia"],
     },
@@ -35,7 +35,7 @@ export default function Home() {
       author: "Julia Mendes",
       price: 55.9,
       coverImage:
-        "https://via.placeholder.com/150x200/2ecc71/ffffff?text=Código",
+        "https://growthcode.com.br/wp-content/uploads/2024/03/Copia-de-A5-Livro-Alem-do-Codigo.jpg",
       rating: 4.2,
       tags: ["Biografia", "Programação"],
     },
@@ -45,7 +45,7 @@ export default function Home() {
       author: "Lucas Costa",
       price: 47.9,
       coverImage:
-        "https://via.placeholder.com/150x200/f39c12/ffffff?text=Universos",
+        "https://m.media-amazon.com/images/I/71sFQoBmDsL._UF894,1000_QL80_.jpg",
       rating: 4.7,
       tags: ["Ficção Científica", "Filosofia"],
     },
@@ -58,7 +58,7 @@ export default function Home() {
       author: "Carla Prado",
       price: 42.9,
       coverImage:
-        "https://via.placeholder.com/150x200/9b59b6/ffffff?text=Linguagem",
+        "https://m.media-amazon.com/images/I/81DqwHZsDTL.jpg",
       rating: 4.0,
       tags: ["Suspense", "Linguística"],
     },
@@ -68,7 +68,7 @@ export default function Home() {
       author: "Pedro Almeida",
       price: 59.9,
       coverImage:
-        "https://via.placeholder.com/150x200/1abc9c/ffffff?text=Revolução",
+        "https://m.media-amazon.com/images/I/81U-TO4QrCL._AC_UF1000,1000_QL80_.jpg",
       rating: 4.6,
       tags: ["Não-Ficção", "Tecnologia"],
     },
@@ -78,7 +78,7 @@ export default function Home() {
       author: "Sofia Torres",
       price: 37.9,
       coverImage:
-        "https://via.placeholder.com/150x200/d35400/ffffff?text=Fronteiras",
+        "https://m.media-amazon.com/images/I/811Bv13Wg5L._AC_UF1000,1000_QL80_.jpg",
       rating: 4.3,
       tags: ["Filosofia", "Psicologia"],
     },
